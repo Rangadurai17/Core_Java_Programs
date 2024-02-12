@@ -1,8 +1,5 @@
 package Java;
 
-//
-
-
 class c
 {
 	c()
@@ -65,11 +62,3 @@ public class Constractor  extends b
 		Constractor obj=new Constractor();
 	}	
 }
-
-
-/*
-public static void main(String[]args)
-	{
-		b obj=new b();
-		
-	}*/
